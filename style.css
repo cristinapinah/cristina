@@ -1,0 +1,13 @@
+.jumbotron {
+    padding-top: 7rem;
+   
+    background-color:  #baddf4;
+}
+.btn{
+    background: linear-gradient(to right, #5170ff, #ff60c4); 
+}
+
+.responsive{
+    width: 100%;
+    height: auto;
+}
